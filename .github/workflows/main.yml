@@ -1,4 +1,4 @@
-name: my-portfolio-deployment # Name of the deployment
+name: git-action-buck # Name of the deployment
 
 on:
   push: # Trigger the workflow when changes are pushed
